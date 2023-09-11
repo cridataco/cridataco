@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/XxDEAMxX/XxDEAMxX/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/XxDEAMxX/XxDEAMxX/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/XxDEAMxX/XxDEAMxX/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cridataco/cridataco/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/cridataco/cridataco/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/cridataco/cridataco/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br>
@@ -14,7 +14,7 @@
 </p>
 
 <!--
-**Aserturik/Aserturik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cirdataco/cridataco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
